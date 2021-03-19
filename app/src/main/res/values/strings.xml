@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">APITest</string>
+    <array name="teams">
+        <item>Friend</item>
+        <item>Biasa Saja</item>
+        <item>Bagaimana Ya?</item>
+        <item>Nothing</item>
+    </array>
+</resources>
